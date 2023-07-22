@@ -1,0 +1,6 @@
+[submodule "fruity-friends-paris-frontend"]
+	path = fruity-friends-paris-frontend
+	url = https://github.com/madztheo/fruity-friends-paris-frontend
+[submodule "fruity-friends-paris-sc"]
+	path = fruity-friends-paris-sc
+	url = https://github.com/guelowrd/fruity-friends-paris-sc
