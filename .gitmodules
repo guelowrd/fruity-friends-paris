@@ -6,3 +6,7 @@
 	path = fruity-friends-paris-sc
 	url = https://github.com/guelowrd/fruity-friends-paris-sc
 	branch = main
+[submodule "fruity-friends-paris-backend"]
+	path = fruity-friends-paris-backend
+	url = https://github.com/madztheo/fruity-friends-paris-backend
+	branch = main
